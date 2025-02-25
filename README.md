@@ -5,8 +5,8 @@
 I am a full-stack developer with experience in Python, JavaScript, TypeScript, frameworks such as Node.js, Flask, Vue.js, and React. I have expertise in data science, creating innovative solutions like chatbots and autonomous agents. I am skilled in tools like Figma, focusing on prototypes and intuitive user experiences.
 
 
-![eduardconst's Stats](https://github-readme-stats.vercel.app/api?username=eduardoconst&theme=cobalt&show_icons=true&include_all_commits=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoconst&layout=donut&theme=cobalt&)](https://github.com/eduardoconst/github-readme-stats)
+![eduardconst's Stats](https://github-readme-stats.vercel.app/api?username=eduardoconst&theme=gruvbox&show_icons=true&include_all_commits=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoconst&layout=donut&theme=gruvbox&)](https://github.com/eduardoconst/github-readme-stats)
 
 
 <p align="left">
