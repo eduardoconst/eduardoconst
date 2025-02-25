@@ -1,6 +1,6 @@
 <h1>Hi There 👋🏽</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardoconst/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardoferreiraconstantino/)](https://www.linkedin.com/in/eduardoferreiraconstantino/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/duduu.rx/)
 [![Gmail Badge](https://img.shields.io/badge/-eduardoconstantino2003@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white)](mailto:eduardoconstantino2003@gmail.com)
 
