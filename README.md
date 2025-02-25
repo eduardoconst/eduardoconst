@@ -7,7 +7,11 @@ I am a full-stack developer with experience in Python, JavaScript, TypeScript, f
 ---
 
 ![eduardconst's Stats](https://github-readme-stats.vercel.app/api?username=eduardoconst&theme=gruvbox&show_icons=true&include_all_commits=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoconst&layout=donut&theme=gruvbox&)](https://github.com/eduardoconst/github-readme-stats)
+<div align="left">
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoconst&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+  
+ </div>
 
 <p align="left">
     <a href="https://www.linkedin.com/in/eduardoferreiraconstantino/" target="_blank">
