@@ -1,6 +1,11 @@
-# 👨🏾‍💻 Eduardo Constantino
+<h1>Hi There 👋🏽</h1>
 
-**`| FullStack Developer | Python • Javascript • SQL | Student of Systems Analysis and Development at PUCPR |`**
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardoconst/)](https://www.linkedin.com/in/eduardoconst/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram/duduu.rx/)]([https://fernandakipper.com/](https://www.instagram/duduu.rx/))
+[![Gmail Badge](https://img.shields.io/badge/-eduardoconstantino2003@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardoconstatino2003@gmail.com)](mailto:eduardoconstantino2003@gmail.com)
+
+## My name is Eduardo Constantino
+FullStack Developer | Python • Javascript • SQL | Student of Systems Analysis and Development at PUCPR🚀
 
 I am a full-stack developer with experience in Python, JavaScript, TypeScript, frameworks such as Node.js, Flask, Vue.js, and React. I have expertise in data science, creating innovative solutions like chatbots and autonomous agents. I am skilled in tools like Figma, focusing on prototypes and intuitive user experiences.
 
@@ -8,17 +13,6 @@ I am a full-stack developer with experience in Python, JavaScript, TypeScript, f
 
 ![eduardconst's Stats](https://github-readme-stats.vercel.app/api?username=eduardoconst&theme=gruvbox&show_icons=true&include_all_commits=true&count_private=true)
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoconst&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/eduardoferreiraconstantino/" target="_blank">
-        <img 
-            alt="LinkedIn Profile" 
-            title="LinkedIn Profile" 
-            width="50px"
-            src="https://static.vecteezy.com/system/resources/previews/023/986/970/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png"
-        />
-    </a>
-</p>
 
 ---
 
