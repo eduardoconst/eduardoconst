@@ -1,12 +1,10 @@
-<h1>Hi There 👋🏽</h1>
+
+# My name is Eduardo Constantino 👋🏽
+FullStack Developer | Python • Javascript • SQL | Student of Systems Analysis and Development at PUCPR🚀
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardoferreiraconstantino/)](https://www.linkedin.com/in/eduardoferreiraconstantino/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/duduu.rx/)
 [![Gmail Badge](https://img.shields.io/badge/-eduardoconstantino2003@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white)](mailto:eduardoconstantino2003@gmail.com)
-
-
-## My name is Eduardo Constantino
-FullStack Developer | Python • Javascript • SQL | Student of Systems Analysis and Development at PUCPR🚀
 
 I am a full-stack developer with experience in Python, JavaScript, TypeScript, frameworks such as Node.js, Flask, Vue.js, and React. I have expertise in data science, creating innovative solutions like chatbots and autonomous agents. I am skilled in tools like Figma, focusing on prototypes and intuitive user experiences.
 
