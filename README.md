@@ -18,7 +18,7 @@ I am a full-stack developer with experience in Python, JavaScript, TypeScript, f
 <img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px; border-radius: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img align="left" alt="C#" title="C#" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg"/>
-  <br/><br/>
+<br/><br/>
   
 ### **Frontend Development:**
 <img align="left" alt="Vue.js" title="Vue.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"/>
@@ -49,16 +49,17 @@ I am a full-stack developer with experience in Python, JavaScript, TypeScript, f
 <img align="left" alt="n8n" title="n8n" width="30px" style="padding-right: 10px;" src="https://n8n.io/n8n-logo.png"/>
 <br/><br/>  
 
-###Version Control & API Testing:
+### **Version Control & API Testing:**
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 <img align="left" alt="Postman" title="Postman" width="30px" style="padding-right: 10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
 <br/><br/>    
 
-###Design & Prototyping:
+### **Design & Prototyping:**
 <img align="left" alt="Figma" title="Figma" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
 <img align="left" alt="Adobe Illustrator" title="Adobe Illustrator" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-line.svg"/>
 <img align="left" alt="Adobe Photoshop" title="Adobe Photoshop" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-line.svg"/>
 <img align="left" alt="After Effects" title="After Effects" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg"/>
+
 <br/>
 <br/>
 ---
