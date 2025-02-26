@@ -7,7 +7,7 @@ I am a full-stack developer with experience in Python, JavaScript, TypeScript, f
 
 ---
 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoconst&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+<img align="center" width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoconst&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
 
 ---
 
