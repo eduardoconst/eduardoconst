@@ -7,6 +7,7 @@ I am a full-stack developer with experience in Python, JavaScript, TypeScript, f
 
 ---
 
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/??username=eduardoconst&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117)
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=eduardoconst&count_private=true&show_icons=true&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117)
 
 
