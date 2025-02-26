@@ -7,7 +7,7 @@
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/??username=eduardoconst&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117)
 
-<p align="right">
+<p>
     <a href="https://www.linkedin.com/in/pedroluccaga/" target="_blank">
         <img 
             alt="LinkedIn Profile" 
