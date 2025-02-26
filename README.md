@@ -7,7 +7,8 @@ I am a full-stack developer with experience in Python, JavaScript, TypeScript, f
 
 ---
 
-<img align="center" width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoconst&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=eduardoconst&count_private=true&show_icons=true&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117)
+
 
 ---
 
@@ -26,7 +27,6 @@ I am a full-stack developer with experience in Python, JavaScript, TypeScript, f
 <img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
 <img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
 <img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
-<img align="left" alt="SASS" title="SASS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/>
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 
@@ -56,9 +56,7 @@ I am a full-stack developer with experience in Python, JavaScript, TypeScript, f
 
 ### **Design & Prototyping:**
 <img align="left" alt="Figma" title="Figma" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
-<img align="left" alt="Adobe Illustrator" title="Adobe Illustrator" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-line.svg"/>
 <img align="left" alt="Adobe Photoshop" title="Adobe Photoshop" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-line.svg"/>
-<img align="left" alt="After Effects" title="After Effects" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg"/>
 
 <br/>
 <br/>
