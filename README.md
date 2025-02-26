@@ -2,8 +2,6 @@
 # My name is Eduardo Constantino 👋🏽
 FullStack Developer| UX Designer | Python • Javascript • SQL | Student of Systems Analysis and Development at PUCPR🚀
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardoferreiraconstantino/)](https://www.linkedin.com/in/eduardoferreiraconstantino/)
-[![Gmail Badge](https://img.shields.io/badge/-eduardoconstantino2003@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white)](mailto:eduardoconstantino2003@gmail.com)
 
 I am a full-stack developer with experience in Python, JavaScript, TypeScript, frameworks such as Node.js, Flask, Vue.js, and React. I have expertise in data science, creating innovative solutions like chatbots and autonomous agents. I am skilled in tools like Figma, focusing on prototypes and intuitive user experiences.
 
@@ -15,13 +13,13 @@ I am a full-stack developer with experience in Python, JavaScript, TypeScript, f
 
 ## 🛠️ My Skills
 
-<h3>Programming Languages</h4>
+###Programming Languages:
   <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
   <img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px; border-radius: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
   <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img align="left" alt="C#" title="C#" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg"/>
   
-<h4>Frontend Development</h4>
+###Frontend Development:
   <img align="left" alt="Vue.js" title="Vue.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"/>
   <img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
   <img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
@@ -31,12 +29,12 @@ I am a full-stack developer with experience in Python, JavaScript, TypeScript, f
   <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 
-<h4>Backend Development</h4>
+###Backend Development:
   <img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
   <img align="left" alt="Flask" title="Flask" width="30px" style="padding-right: 10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWA3j1vFHAw02M1aWlAnhbbkmWYpF2kkDbrw&s"/>
   <img align="left" alt="Laravel" title="Laravel" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
 
-<h4>Data Science & AI</h4>
+###Data Science & AI:
       <img align="left" alt="Pandas" title="Pandas" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
       <img align="left" alt="NumPy" title="NumPy" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"/>
       <img align="left" alt="SciPy" title="SciPy" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg"/>
@@ -45,12 +43,17 @@ I am a full-stack developer with experience in Python, JavaScript, TypeScript, f
       <img align="left" alt="Langflow" title="Langflow" width="30px" style="padding-right: 10px;" src="https://avatars.githubusercontent.com/u/85702467?s=280&v=4"/>
       <img align="left" alt="n8n" title="n8n" width="30px" style="padding-right: 10px;" src="https://n8n.io/n8n-logo.png"/>
       
-<h4>Version Control & API Testing</h4>
+###Version Control & API Testing:
       <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
       <img align="left" alt="Postman" title="Postman" width="30px" style="padding-right: 10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
       
-<h4>Design & Prototyping</h4>
+###Design & Prototyping:
       <img align="left" alt="Figma" title="Figma" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
       <img align="left" alt="Adobe Illustrator" title="Adobe Illustrator" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-line.svg"/>
       <img align="left" alt="Adobe Photoshop" title="Adobe Photoshop" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-line.svg"/>
       <img align="left" alt="After Effects" title="After Effects" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg"/>
+
+---
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardoferreiraconstantino/)](https://www.linkedin.com/in/eduardoferreiraconstantino/)
+[![Gmail Badge](https://img.shields.io/badge/-eduardoconstantino2003@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white)](mailto:eduardoconstantino2003@gmail.com)
