@@ -2,10 +2,6 @@
 # 🧑🏽‍💻 Eduardo Constantino 
 
 <p align = "justify"> I'm a software developer with experience in Python, JavaScript, TypeScript, and frameworks like Node.js, Vite, React, Next.js, and Flask. Currently, I am expanding my experience with data science, C#, AI (chatbots, generative and predictive models, AI agents). I've a great curiosity for learning and constantly improving. My focus is on writing clean and reusable code. I adore sharing my knowledge with my friends, and I also challenge myself to create solutions for today's challenges.</p>
-<a href="https://www.linkedin.com/in/pedroluccaga/" target="_blank">
-     <img alt="LinkedIn Profile" title="LinkedIn Profile" width="50px"src="https://static.vecteezy.com/system/resources/previews/023/986/970/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png"/>
-</a>
-
 ---
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/??username=eduardoconst&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117)
