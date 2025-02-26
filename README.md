@@ -1,9 +1,7 @@
 
 # My name is Eduardo Constantino 👋🏽
-FullStack Developer| UX Designer | Python • Javascript • SQL | Student of Systems Analysis and Development at PUCPR🚀
 
-
-I am a full-stack developer with experience in Python, JavaScript, TypeScript, frameworks such as Node.js, Flask, Vue.js, and React. I have expertise in data science, creating innovative solutions like chatbots and autonomous agents. I am skilled in tools like Figma, focusing on prototypes and intuitive user experiences.
+<p align = "center"> I'm a software developer with experience in Python, JavaScript, TypeScript, and frameworks like Node.js, Vite, React, Next.js, and Flask. Currently, I am expanding my experience with data science, C#, AI (chatbots, generative and predictive models, AI agents). I've a great curiosity for learning and constantly improving. My focus is on writing clean and reusable code. I adore sharing my knowledge with my friends, and I also challenge myself to create solutions for today's challenges.</p>
 
 ---
 
