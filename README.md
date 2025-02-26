@@ -21,7 +21,7 @@ I am a full-stack developer with experience in Python, JavaScript, TypeScript, f
       <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
       <img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px; border-radius: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
       <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-      <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg](https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg"/>
+      <img align="left" alt="C#" title="C#" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg"/>
       
     </td>
     <td>
