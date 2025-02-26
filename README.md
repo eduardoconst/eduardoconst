@@ -7,6 +7,17 @@
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/??username=eduardoconst&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117)
 
+<p align="right">
+    <a href="https://www.linkedin.com/in/pedroluccaga/" target="_blank">
+        <img 
+            alt="LinkedIn Profile" 
+            title="LinkedIn Profile" 
+            width="50px"
+            src="https://static.vecteezy.com/system/resources/previews/023/986/970/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png"
+        />
+    </a>
+</p>
+
 ---
 
 ## 🛠️ My Skills
@@ -59,10 +70,6 @@
 <br/>
 
 ---
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardoferreiraconstantino/)](https://www.linkedin.com/in/eduardoferreiraconstantino/)
-[![Gmail Badge](https://img.shields.io/badge/-eduardoconstantino2003@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white)](mailto:eduardoconstantino2003@gmail.com)
-
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
