@@ -1,8 +1,7 @@
 
 # Eduardo Constantino 
 
-<p align = "justify"> Sou desenvolvedor de software movido pela curiosidade e pela vontade de evoluir constantemente. Mais do que escrever código, busco entender problemas e transformar ideias em algo prático. Valorizo código limpo, colaboração e aprendizado contínuo.
-Estou construindo minha carreira na área de tecnologia, sempre buscando criar soluções próprias para ideias, estudos e problemas do dia a dia.</p>
+<p align = "justify"> I'm a software developer driven by curiosity and the desire to constantly improve. More than just writing code, I strive to understand problems and turn ideas into practical solutions. I value clean code, collaboration, and continuous learning. I'm building my career in the tech field, always seeking to create my own solutions for ideas, studies, and everyday challenges.</p>
 
 
 ---
